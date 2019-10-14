@@ -24,7 +24,7 @@ INSERT INTO characters(id, name, motto, species, author_id) VALUES
 (3, "Eddie Dean", "You’re a Tower Junkie, Roland", "human", 3),
 (4, "Blaine the Mono", "TOUGH TITTY, SAID THE KITTY", "train", 4),
 (5, "Lyra Belacqua ", "I dont want to be a lady", "human", 5),
-(6, "Pan", "scared? a little", "daemon", "dæmon" 6),
-(7 "Lord Asriel","That is the truth", "human", 7),
-(8 "Iorek Byrnison", "I lift heavy objects", "polar bear", 8);
+(6, "Pan", "scared? a little", "daemon", "daemon", 6),
+(7, "Lord Asriel","That is the truth", "human", 7),
+(8, "Iorek Byrnison", "I lift heavy objects", "polar bear", 8);
 
