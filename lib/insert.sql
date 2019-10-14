@@ -28,4 +28,4 @@ INSERT INTO characters(id, name, motto, species, author_id) VALUES
 (7, "Lord Asriel","That is the truth", "human", 7),
 (8, "Iorek Byrnison", "I lift heavy objects", "polar bear", 8);
 
-INSERT INTO character_books (id, book_id, character_id) VALUES (1, 1, 1), (2, 1, 2), (3, 1, 3), (4, 2, 4), (5, 2, 5), (6, 2, 6), (7, 2, 7), (8, 2, 8);
+INSERT INTO character_books (id, book_id, character_id) VALUES (1, 1, 1), (2, 2, 2), (3, 2, 3), (4, 4, 4), (5, 5, 5), (6, 5, 6), (7, 6, 7), (8, 6, 8);
