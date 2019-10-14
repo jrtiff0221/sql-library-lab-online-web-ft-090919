@@ -6,9 +6,9 @@ INSERT INTO subgenres(id,name) VALUES
 (1, "western fiction"),
 (2, "science fantasy");
 
--- INSERT INTO authors(id,name) VALUES
--- (1, "Stephen King"),
--- (2, "Philip Pullman");
+INSERT INTO authors(id,name) VALUES
+(1, "Stephen King"),
+(2, "Philip Pullman");
 
 -- INSERT INTO books(id,title,year,series_id) VALUES
 -- (1, "The Gunslinger", 1982, 1),
