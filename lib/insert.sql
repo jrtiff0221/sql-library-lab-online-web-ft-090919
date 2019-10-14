@@ -1,10 +1,10 @@
-INSERT INTO subgenres(id,name) VALUES
-(1, "western fiction"),
-(2, "science fantasy");
+-- INSERT INTO subgenres(id,name) VALUES
+-- (1, "western fiction"),
+-- (2, "science fantasy");
 
-INSERT INTO authors(id,name) VALUES
-(1, "Stephen King"),
-(2, "Philip Pullman");
+-- INSERT INTO authors(id,name) VALUES
+-- (1, "Stephen King"),
+-- (2, "Philip Pullman");
 
 INSERT INTO series(id, title, author_id, subgenre_id) VALUES
 (1, "The Dark Tower", 1, 1),
