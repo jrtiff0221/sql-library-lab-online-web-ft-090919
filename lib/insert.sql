@@ -10,13 +10,13 @@ INSERT INTO authors(id, name) VALUES
 (1, "Stephen King"),
 (2, "Philip Pullman");
 
--- INSERT INTO books(id,title,year,series_id) VALUES
--- (1, "The Gunslinger", 1982, 1),
--- (2, "The Drawing of the Three", 1987, 2),
--- (3, "The Waste Lands", 1991, 3),
--- (4, "The Golden Compass", 1995, 4),
--- (5, "The Subtle Knife", 1997, 5),
--- (6, "The Amber Spyglass", 2000, 6);
+INSERT INTO books(id,title,year,series_id) VALUES
+(1, "The Gunslinger", 1982, 1),
+(2, "The Drawing of the Three", 1987, 2),
+(3, "The Waste Lands", 1991, 3),
+(4, "The Golden Compass", 1995, 4),
+(5, "The Subtle Knife", 1997, 5),
+(6, "The Amber Spyglass", 2000, 6);
 
 -- INSERT INTO characters(id, name, motto, species, author_id) VALUES
 -- (1, "Roland Deschain","Time's the thief of memory", "human", 1),
