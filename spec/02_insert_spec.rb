@@ -7,8 +7,6 @@ describe 'inserting' do
   end
 
   it "has 2 series" do
-    puts "@db.execute(SELECT COUNT(*) FROM series;"
-    puts @db.execute("SELECT COUNT(*) FROM series;")
     expect(@db.execute("SELECT COUNT(*) FROM series;").flatten[0]).to eq(2)
   end
 
