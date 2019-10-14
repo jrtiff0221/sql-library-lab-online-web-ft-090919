@@ -18,7 +18,7 @@ INSERT INTO books(id,title,year,series_id) VALUES
 (5, "The Subtle Knife", 1997, 5),
 (6, "The Amber Spyglass", 2000, 6);
 
-INSERT INTO charactxers(id, name, motto, species, author_id) VALUES
+INSERT INTO characters(id, name, motto, species, author_id) VALUES
 (1, "Roland Deschain","Time's the thief of memory", "human", 1),
 (2, "The Man in Black", "Everyone who walks with you dies", "immortal", 2),
 (3, "Eddie Dean", "You’re a Tower Junkie, Roland", "human", 3),
